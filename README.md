@@ -45,14 +45,4 @@ Run the notebook or Python file in:
 - Google Colab
 - Jupyter Notebook
 
-## 📈 Future Improvements
 
-- Add GUI/Web App
-- Try Deep Learning models
-- Improve accuracy
-- Deploy using Flask/Django
-
-## 👨‍💻 Author
-
-Afsal S
-CSE Student | AI & ML Enthusiast
