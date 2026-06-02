@@ -8,7 +8,7 @@ This project uses Machine Learning algorithms to classify sonar signals into:
 - Rock
 - Mine
 
-The model is trained using the Sonar dataset.
+The model is trained using the Sonar dataset .
 
 ## 🚀 Technologies Used
 
